@@ -1,0 +1,11 @@
+---
+# Crate key item id.
+# Refer https://hydra-media.cursecdn.com/minecraft.gamepedia.com/c/c6/DataValuesPE.png
+cratekey: 399
+
+# Crate key's name.
+keyname: "Crate key"
+
+# Block configuration. No need to modify this.
+blocks: []
+...

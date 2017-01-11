@@ -1,0 +1,11 @@
+name: KeysX
+api: 2.0.0
+main: Junkdude\Key
+version: 1.0
+author: R4KT, Modified Extremely By Junkdude!
+website: http://github.com/R4KT
+commands:
+  key:
+    description: "Crates initial command."
+  givekey:
+    description: "Gives dat sweet cratekey dawg"  
